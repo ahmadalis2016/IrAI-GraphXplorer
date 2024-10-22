@@ -6,3 +6,4 @@ pypdf
 python-dotenv
 langchain_openai 
 streamlit
+json-repair 
