@@ -3,7 +3,8 @@ GraphXplorer is a Realtime Graph-RAG (Graph-based Retrieval Augmented Generation
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://iridium-ai-llama3.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://irai-graphxplorer-medrag.streamlit.app/)
+
 
 ## Features
 PDF Upload and Parsing: Upload PDF documents to extract and visualize information in a graph structure.
