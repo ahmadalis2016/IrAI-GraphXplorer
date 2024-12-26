@@ -21,7 +21,7 @@ def main():
         page_title="GraphXplorer",
         page_icon=":graph:"
     )
-    st.sidebar.image('logo.png', use_column_width=True) 
+    st.sidebar.image('logo.png', use_container_width=True) 
     st.title("GraphXplorer: AI Powered Graph RAG")
 
     load_dotenv()
